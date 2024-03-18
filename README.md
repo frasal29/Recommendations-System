@@ -9,7 +9,7 @@ This repository contains Python scripts for generating movie recommendations for
    - [Single User Recommendations](#single-user-recommendations)
    - [Group Recommendations with or without Disagreement](#group-recommendations-with-or-without-disagreement)
 4. [Scripts and Functions](#scripts-and-functions)
-5. [License](#license)
+5. [Contact](#contact)
 
 ## Introduction
 This project aims to provide movie recommendations to users based on their movie ratings. It employs collaborative filtering algorithms such as Pearson correlation and cosine similarity to predict ratings for movies that a user has not yet rated. Furthermore, it offers the functionality to generate recommendations for groups of users, considering both their individual ratings and potential disagreements among them.
@@ -63,7 +63,6 @@ Follow the prompts to enter the user IDs of the group members and choose the sco
 - `group_recommendations.py`: Functions for generating recommendations in a group recommendations.
 - `group_recommendations_with_disagreement.py`: Functions for generating recommendations in group recommendations considering disagreement.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contact
 
-For any questions or feedback, feel free to contact [your_email@example.com](mailto:your_email@example.com).
+For any questions or feedback, feel free to contact [francesco.salienti@gmail.com](mailto:francesco.salienti@gmail.com).
